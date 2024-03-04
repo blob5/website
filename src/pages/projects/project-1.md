@@ -1,20 +1,15 @@
 ---
 layout: ../../layouts/MarkdownWorksLayout.astro
-title: 'Project 1'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Flushed Bot'
+description: 'A Discord.py bot that is centered around luck and fun.'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: 'https://avatars.githubusercontent.com/u/36101493'
+    alt: 'discord.py logo'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
-worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+    url: 'https://discordpy.readthedocs.io/en/stable/_images/snake_dark.svg'
+    alt: 'discord.py logo'
+platform: Discord
+stack: Python, Discord.py
+website: https://github.com/blob5/flushed
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+I made a Discord bot that has different chances to repond to messages with an emoji reaction. It's a fun little project that I made over the years to learn Python and Discord.py. 
