@@ -1,0 +1,88 @@
+---
+import Layout from '../layouts/Layout.astro';
+const pageTitle = "Senna";
+---
+<Layout pageTitle={pageTitle}>
+    <div class="gif">
+        <img width="300" height="259" alt="RaccoonSpaceGif" src="/space.webp"/>
+    </div>
+    <h1>Senna</h1>
+    <small>Software Developer</small>
+    <h2>About me</h2>
+    <p>
+      Welcome to my own personal corner of the internet.
+    </p>
+    <p>
+      I am a student currently studying Information & Communication Technology.
+      On this website you will find some things I have made.
+    </p>
+    <p>
+      I like the internet and everything about it.
+    </p>
+    <div class="button">
+        <a href="/works/">
+            <button class="button">My portfolio</button>
+        </a>
+    </div>
+    <h2>Skills</h2>
+    <div class="link-images">
+        <img width="46" height="46" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+        <img width="46" height="46" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+        <img width="46" height="46" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+        <img width="46" height="46" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+        <img width="46" height="46" alt="PostGres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
+        <img width="46" height="46" alt="RaspberryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/>
+        <img width="46" height="46" alt="VScode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+        <img width="46" height="46" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+        <img width="46" height="46" alt="Windows10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
+    </div>
+    <h2>Interests</h2>
+    <p>
+        My interests are mostly things that operate in the backend of applications. I like to see how programs work behind the scenes.
+    </p>
+</Layout>
+<style>
+    /* small */
+    small {
+        background-color: #584966;
+        color: #fdebf3;
+        border-radius: 6px;
+        font-family: 'Josefin Sans', sans-serif;
+        font-weight: 600;
+        padding: 0.3em 0.6em 0.2em;
+    }
+
+    /* Button */
+    button {
+        background: rgba(0,0,0,0);
+        border: 2px solid #78c2ad;
+        border-radius: 8px;
+        color: #fdebf3;
+        font: 600 16px 'Josefin Sans', sans-serif;
+        padding: 8px 16px;
+        transition: background-color 0.4s, color 0.4s;
+    }
+
+    button:hover {
+        background-color: #78c2ad;
+        color: #1e1e2e;
+        cursor: pointer;
+    }
+
+    .button {
+        text-align: center;
+    }
+
+    /* Skill images */
+    .link-images img {
+        margin: 16px 4px;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .link-images img {
+            height: 30px;
+            width: 30px;
+            margin: 16px 1px;
+        }
+    }
+</style>
