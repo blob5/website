@@ -1,6 +1,6 @@
 /* Global styles */
 html {
-    background-color: #1e1e2e;
+    background-color: #040c1d;
     color: #fdebf3;
 }
 
@@ -12,7 +12,7 @@ body {
 
 /* Headings */
 h1, h2 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Madimi One', cursive;
     font-weight: normal;
 }
 
@@ -54,7 +54,7 @@ p {
 }
 
 .title-link, .nav-links {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Madimi One', cursive;
     font-size: 1.3rem;
 }
 
