@@ -7,21 +7,6 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 03 Nov 2024 16:00:32 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/2024/11/my-first-post/</link>
-      <pubDate>Sun, 03 Nov 2024 16:00:32 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2024/11/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello reader! This is my first post on my website. Maybe this is the only one or maybe you scrolled all the way down to find this post. Either way, I hope you enjoy your stay on my website.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-this-website-about&#34;&gt;What is this website about?&lt;/h2&gt;&#xA;&lt;p&gt;I made this website today after a friend of mine shared this cool website with me: &lt;a href=&#34;https://www.usecue.com&#34;&gt;Usecue&lt;/a&gt;&#xA;When I saw how insanely fast this page loaded I was instantly sold. I already had my own website but it was slow and I didn&amp;rsquo;t like the design. So I decided to make a new website with Hugo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h2&gt;&#xA;&lt;p&gt;I am a student currently studying Information &amp;amp; Communication Technology at the HU University of Applied Sciences Utrecht in The Netherlands. I like the internet and everything about it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;&#xA;&lt;p&gt;My interests are mainly in the backend operations of applications. I like to see how programs work behind the scenes. I also love to learn new things.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
