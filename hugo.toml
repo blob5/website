@@ -2,7 +2,6 @@ baseURL = 'https://senna5.com/'
 languageCode = 'en-us'
 title = 'Senna'
 theme = 'hello-friend-ng'
-paginate = 10
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
