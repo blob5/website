@@ -3,9 +3,6 @@ title: "My First Post"
 date: 2024-11-03T16:00:32+01:00
 draft: false
 toc: false
-images:
-tags:
-  - first post!
 ---
 
 
