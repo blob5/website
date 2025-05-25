@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Software Developer (in development)"
+  homeSubtitle = "Internet Enjoyer (in development)"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -127,7 +127,7 @@ disableHugoGeneratorInject = false
     trademark = false
     rss = false
     copyright = false
-    author = true
+    author = False
 
     topText = []
     bottomText = [
