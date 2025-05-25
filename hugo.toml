@@ -127,7 +127,7 @@ disableHugoGeneratorInject = false
     trademark = false
     rss = false
     copyright = false
-    author = False
+    author = false
 
     topText = []
     bottomText = [
