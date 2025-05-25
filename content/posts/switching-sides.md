@@ -1,6 +1,6 @@
 ---
-title: "Switching up"
-date: 2024-11-03T16:00:32+01:00
+title: "Switching sides"
+date: 2025-05-25T12:30:19+02:00
 draft: false
 toc: false
 images:
