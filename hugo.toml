@@ -236,7 +236,7 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.en.params]
-    subtitle  = "Software Developer (in development)"
+    subtitle  = "Internet Enjoyer"
 	
 [menu]
   [[menu.main]]
